@@ -68,7 +68,7 @@ li{
 /* Propriétés des <code> dans les listes */
 
 code{
-  margin: 0 15px 0 -15px;
+  margin-right: 15px;
   color: #e6910c;
   font-weight: bold;
   font-family: Coda;
@@ -195,7 +195,7 @@ li{
 /* Propriétés des <code> dans les listes */
 
 code{
-  margin: 0 25px 0 -25px;
+  margin-right: 25px;
   color: #e6910c;
   font-weight: bold;
   font-family: Coda;
